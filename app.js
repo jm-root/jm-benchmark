@@ -12,6 +12,9 @@ if(name) {
 o.ms({
     port: port ++
 });
+o.server({
+    port: port ++
+});
 o.express({
     port: port ++
 });

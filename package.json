@@ -26,6 +26,7 @@
   "dependencies": {
     "express": "^4.15.3",
     "jm-ms": "^0.0.19",
+    "jm-server": "^0.1.6",
     "koa": "^2.2.0"
   }
 }
