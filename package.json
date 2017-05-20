@@ -1,0 +1,31 @@
+{
+  "name": "jm-benchmark",
+  "version": "0.0.1",
+  "description": "benchmark test",
+  "main": "./lib/index",
+  "scripts": {
+    "start": "node app",
+    "cluster": "node cluster"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jm-root/jm-benchmark.git"
+  },
+  "keywords": [
+    "javascript",
+    "jm-benchmark"
+  ],
+  "author": {
+    "name": "Jeff YU"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jm-root/jm-benchmark/issues"
+  },
+  "homepage": "https://github.com/jm-root/jm-benchmark",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jm-ms": "^0.0.19",
+    "koa": "^2.2.0"
+  }
+}
